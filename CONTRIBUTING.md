@@ -1,2 +1,1 @@
-# Contributing Guidelines
-Contributions are welcome! Please submit a pull request.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome. Please submit a pull request.
